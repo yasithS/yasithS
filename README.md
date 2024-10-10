@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hello, I am **Yasith Gunawardhana.**</h1>
+<h1 align="center"> Hello, I am ***Yasith Gunawardhana.***</h1>
 <h2 align="center">Computer Science Undergraduate, University of Westminster</h2>
